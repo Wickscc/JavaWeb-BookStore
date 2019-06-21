@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="commons-dbcp2-2.6.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-dbcp2-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-dbutils-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-pool2-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JDBCUtils BookStore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.13-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/standard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.13-bin.jar!/" />
+    </SOURCES>
+  </library>
+</component>

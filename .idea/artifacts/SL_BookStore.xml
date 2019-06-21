@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SL_BookStore">
+    <output-path>$PROJECT_DIR$/out/artifacts/SL_BookStore</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SL_BookStore" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="commons-dbcp2-2.6.0" />
+          <element id="library" level="project" name="fastjson-1.2.57" />
+          <element id="library" level="project" name="javax.mail" />
+          <element id="library" level="module" name="JUnit4" module-name="SL_BookStore" />
+          <element id="library" level="project" name="MailSand" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="SL_BookStore/web/Web" />
+    </root>
+  </artifact>
+</component>
